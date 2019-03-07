@@ -1,6 +1,6 @@
 {
   "name": "@delaguardo/dagre-d3",
-  "version": "0.6.5-cljs",
+  "version": "0.6.6-cljs",
   "description": "A D3-based renderer for Dagre",
   "author": "Chris Pettitt <chris@samsarin.com>",
   "keywords": [
